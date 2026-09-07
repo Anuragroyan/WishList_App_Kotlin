@@ -37,4 +37,5 @@ The project demonstrates how to implement local database management and CRUD ope
 
 
 🎯 Project Purpose
+
 The project was created to demonstrate practical local database implementation in Android using Kotlin and Room. It provides hands-on experience with database entities, DAO operations, CRUD functionality, data persistence, and separating the UI layer from database operations.
